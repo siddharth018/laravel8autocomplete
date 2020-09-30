@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/siddharth018/laravel8dropzonejs/master/dropzone.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/autocomplete.png" width="100%">
 </p>
 ## About
 <h2>Step 1: download in your system.</h2>  
