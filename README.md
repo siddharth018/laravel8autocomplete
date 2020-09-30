@@ -78,7 +78,7 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
   </a>
 
   <a href="https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber">
-    <img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/yotubeSubs.jpg" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
+    <img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/yotubeSubs.jpg" width="15%" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
   </a>
 </p>
 
