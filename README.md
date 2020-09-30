@@ -36,11 +36,11 @@ git clone https://github.com/siddharth018/laravel8autocomplete.git
 
     php artisan seed:db
 
-<h2>Step 6: Run server</h2>  
+<h2>Step 7: Run server</h2>  
 
     php artisan serve
 
-<h2>Step 6: Search Now</h2>  
+<h2>Step 8: Search Now</h2>  
 
     http://127.0.0.1:8000/search
 
