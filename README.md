@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/autocomplete.png" width="100%">
 </p>
-## About
+
 <h2>Step 1: download in your system.</h2>  
 
 git clone https://github.com/siddharth018/laravel8autocomplete.git
