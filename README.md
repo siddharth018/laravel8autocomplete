@@ -3,9 +3,9 @@
 ## About
 <h2>Step 1: download in your system.</h2>  
 
-git clone https://github.com/siddharth018/laravel8dropzonejs.git
+git clone https://github.com/siddharth018/laravel8autocomplete.git
 
-    cd laravel8dropzonejs
+    cd laravel8autocomplete
 
 <h2>Step 2: Configure your database from .env file</h2> 
 
@@ -14,7 +14,7 @@ git clone https://github.com/siddharth018/laravel8dropzonejs.git
 
     DB_PORT=3306
     
-    DB_DATABASE=laravel8dropzonejs
+    DB_DATABASE=laravel8autocomplete
     
     DB_USERNAME=root
     
@@ -32,9 +32,17 @@ git clone https://github.com/siddharth018/laravel8dropzonejs.git
 
     php artisan key:generate
 
+<h2>Step 6: Run Seeder</h2> 
+
+    php artisan seed:db
+
 <h2>Step 6: Run server</h2>  
 
     php artisan serve
+
+<h2>Step 6: Search Now</h2>  
+
+    http://127.0.0.1:8000/search
 
 ## Youtube
 Join in youtube
