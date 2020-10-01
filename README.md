@@ -1,7 +1,12 @@
-https://realprogrammer.in/ajax-autocomplete-search-in-laravel-8/
+## Blog
+
+You'll find the blog on [https://realprogrammer.in/ajax-autocomplete-search-in-laravel-8/](https://realprogrammer.in/ajax-autocomplete-search-in-laravel-8/).
+
 
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/autocomplete.png" width="100%">
 </p>
+
+# How to use
 
 <h2>Step 1: download in your system.</h2>  
 
